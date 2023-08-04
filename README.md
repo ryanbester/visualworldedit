@@ -1,0 +1,3 @@
+# VisualWorldEdit
+
+Visualises WorldEdit selections.
